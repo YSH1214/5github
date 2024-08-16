@@ -1,4 +1,5 @@
 # pull 연습을 위한 주석처리
+# 이런식으로 협업해요
 import sys
 from PyQt5.QtWidgets import (QApplication, QWidget, QPushButton, QVBoxLayout, QMessageBox)
 from PyQt5.QtGui import QIcon
